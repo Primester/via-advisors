@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:"/via-advisors/_next/static/chunks/37q8j6arizd_s.js"
+3:"/via-advisors/_next/static/chunks/444hyhnyb5nib.js"
+4:I[93963,["$2","$3"],"Header"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[22016,["$2","$3"],""]
+19:"ViewportBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2","$3"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$2","$3"],"IconMark"]
+:HL["/via-advisors/_next/static/chunks/2jilgztswin2y.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","section",null,{"className":"page-intro","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow ","children":[["$","span",null,{}],"Website information"]}],["$","div",null,{"className":"page-intro-grid","children":[["$","h1",null,{"children":"A straightforward approach to privacy."}],["$","div",null,{"children":[["$","p",null,{"className":"lead","children":"This preview is designed to help you explore VIA and prepare a project brief without creating an account."}],"$undefined"]}]]}]]}]}],["$","section",null,{"className":"section","children":["$","div",null,{"className":"container prose","children":[["$","h2",null,{"children":"Project brief information"}],["$","p",null,{"children":"Information entered into the project-brief form is processed in your browser. It is not sent to VIA or saved by an application server. Downloading a brief creates a file on your device. The form is cleared when you leave or reload the page."}],"$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]}]],null,"$L17"]}],"p":"$@18","v":null,"s":"$9"}}]]
+a:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/via-advisors/_next/static/chunks/2jilgztswin2y.css","precedence":"next"}],["$","script","script-0",{"src":"/via-advisors/_next/static/chunks/37q8j6arizd_s.js","async":true}],["$","script","script-1",{"src":"/via-advisors/_next/static/chunks/444hyhnyb5nib.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","section",null,{"className":"section not-found","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"eyebrow ","children":[["$","span",null,{}],"404 / Let’s find your path"]}],["$","h1",null,{"children":["This page isn’t",["$","br",null,{}],"on the map."]}],["$","p",null,{"children":"The page may have moved, or the address may be incomplete."}],["$","$L7",null,{"href":"/","className":"button button-navy","children":["Return to VIA",["$","svg",null,{"className":"","width":"22","height":"22","viewBox":"0 0 24 24","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M5 19 19 5M5 5h14v14","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round"}]}]]}],["$","$L7",null,{"href":"/services/","className":"text-link","children":["Explore services",["$","svg",null,{"className":"","width":"22","height":"22","viewBox":"0 0 24 24","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M5 19 19 5M5 5h14v14","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round"}]}]]}]]}]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","$L7",null,{"href":"/","className":"brand brand-footer","aria-label":"VIA — Veteran Infrastructure Advisors home","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":["V",["$","span",null,{"className":"brand-i","children":"I"}],"A",["$","span",null,{"className":"brand-dot","children":"."}]]}],["$","span",null,{"className":"brand-name","children":["Veteran",["$","br",null,{}],"Infrastructure",["$","br",null,{}],"Advisors"]}]]}],["$","p",null,{"className":"footer-statement","children":["Owner perspective.",["$","br",null,{}],"Mission-focused thinking."]}]]}],["$","div",null,{"className":"footer-links","children":[["$","p",null,{"className":"footer-label","children":"Explore"}],["$","$L7",null,{"href":"/services/","children":"Services"}],["$","$L7",null,{"href":"/experience/","children":"Experience"}],["$","$L7",null,{"href":"/team/","children":"Our team"}],["$","$L7",null,{"href":"/government/","children":"Government"}],["$","$L7",null,{"href":"/news/","children":"In the news"}]]}],["$","div",null,{"className":"footer-links","children":[["$","p",null,{"className":"footer-label","children":"Connect"}],["$","$L7",null,{"href":"/contact/","children":"Discuss a project"}],["$","$L7",null,{"href":"/capabilities/","children":"Capability overview"}],null,["$","p",null,{"children":"Santa Barbara, California"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"children":["© 2026 ","Veteran Infrastructure Advisors LLC"]}],["$","div",null,{"children":[["$","$L7",null,{"href":"/privacy/","children":"Privacy"}],["$","span",null,{"children":"Veteran-owned. Owner-aligned."}]]}]]}]]}]}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy | VIA"}],["$","meta","1",{"name":"description","content":"How the VIA preview handles information entered in the local project-brief form."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/via-advisors/icon.svg"}],["$","$L1e","4",{}]]}]}],null]}],null]}],"p":"$@1f","v":null,"s":"$9"}},"a":"$@20","u":"$@21","b":"WvzbQibQj6NOFMgSfXNRr"}
+22:I[97367,["$2","$3"],"OutletBoundary"]
+e:["$","h2",null,{"children":"Email and external links"}]
+f:["$","p",null,{"children":"If you choose an email link, your email application handles the message. Sending is your choice. External websites, including LinkedIn and project source links, have their own privacy practices."}]
+10:["$","h2",null,{"children":"Analytics and cookies"}]
+11:["$","p",null,{"children":["This version does not use advertising trackers, third-party analytics, or application cookies. GitHub Pages hosts the shared preview and processes technical requests, including IP addresses, to deliver and secure the site. See the"," ",["$","a",null,{"href":"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement","target":"_blank","rel":"noreferrer","children":"GitHub Privacy Statement"}],"."]}]
+12:["$","h2",null,{"children":"Confidential information"}]
+13:["$","p",null,{"children":"Please do not include procurement-sensitive material, controlled information, government identifiers, or other confidential documents in a project brief."}]
+14:["$","h2",null,{"children":"Before public launch"}]
+15:["$","p",null,{"children":"Contact details and any future inquiry-delivery service will be reflected here before they are enabled. This information describes the current preview."}]
+16:["$","p",null,{"className":"scope-note","children":"Last updated October 25, 2026."}]
+17:["$","$L22",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+9:300
+23:null
+21:true
+9:C
+20:0
+b:"$undefined"
+8:"$undefined"
+1f:"$undefined"
+18:"$undefined"
